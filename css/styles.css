@@ -1,0 +1,163 @@
+/******* NAVIAGTION ******/
+    #logo {
+        width: 150px;
+    }
+
+    .collapse {
+        justify-content: right;
+        padding-right: 25px;
+    }
+
+    ul.navbar-nav {
+        text-align: center;
+        font-size: 2em;
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+
+/***** CONTENT: LANDING ******/
+    #boxer-bg {
+        margin: 0 0 0 350px;
+    }
+
+    .main-title {
+        margin: 0px 0px 560px 0px;
+    }
+    .main-title h1 {
+        margin: -670px 200px 0px 200px;
+        font-size: 8em;
+        text-align: center;
+        font-family: "Protest Revolution", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    aside {
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    .trainer {
+        margin: -400px 0px 0px 20px;
+    }
+
+    .button {
+        margin: 45px 0 0 50px;
+    }
+    .button button {
+        border-radius: 10px;
+        color: darkblue;
+        height: 50px;
+        width: 150px;
+    }
+
+    .reviews {
+        display: ruby;
+        float: right;
+        margin: -800px 25px 0 0;
+    }
+
+    .reviews p {
+        padding: 5px;
+    }
+
+    .fight-cards {
+        display: ruby;
+        float: right;
+        margin: -250px 10px 0 0;
+    }
+
+    #reviews-img {
+        width: 50px;
+    }
+
+    #fighter-1 {
+        width: 125px;
+    }
+    #card-1 {
+        box-shadow: 0 4px 8px 0 darkblue;
+        transition: 0.4s;
+        padding: 15px;
+        margin: 15px;
+    }
+
+    #fighter-2 {
+        width: 125px;
+    }
+    #card-2 {
+        box-shadow: 0 4px 8px 0 darkblue;
+        transition: 0.4s;
+        padding: 15px;
+        margin: 15px;
+    }
+
+
+/***** CONTENT: SIGN-UP ******/
+    #main-form {
+        margin: 0 auto;
+        height: 1000px;
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    #form-img {
+        width: 100%;
+        height: 45%;
+        opacity: 0.88;
+        margin-top: 15px;
+    }
+
+    .form-card {
+        box-shadow: 0px 20px 8px 0 darkblue;
+        transition: 0.4s;
+        margin: 0 100px 0 100px;
+        width: 85%;
+        height: 950px;
+    }
+
+    form {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    input[type=text], select {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+      }
+      
+      input[type=submit] {
+        width: 100%;
+        background-color: darkolivegreen;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      
+      input[type=submit]:hover {
+        background-color: rgb(115, 147, 58);
+      }
+
+
+/***** FOOTER ******/
+    .footer {
+        margin: 0 auto;
+    }
+
+    .footer a {
+        margin: 0 0 0 600px;
+    }
+
+
+/***** MEDIA QUERIES ******/
